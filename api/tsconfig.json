@@ -1,0 +1,15 @@
+{
+ "compilerOptions": {
+   "target": "ES2020",
+   "module": "CommonJS",
+   "rootDir": "api/src",
+   "outDir": "dist",
+   "allowJs": true,
+   "strict": true,
+   "esModuleInterop": true,
+   "moduleResolution": "node",
+   "resolveJsonModule": true,
+   "skipLibCheck": true
+ },
+ "include": ["api/src/**/*"]
+}
